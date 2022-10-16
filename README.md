@@ -1,2 +1,0 @@
-# blog
-Migrating to Quarto
